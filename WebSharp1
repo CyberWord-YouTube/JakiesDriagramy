@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T16:58:07.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 OPR/91.0.4516.72" version="20.4.0" etag="uPpedWG8XI5Tvk2cQOcj" type="github"><diagram id="9lMuQkeq8u5d5hhJ3KNU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-14T17:01:38.652Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 OPR/91.0.4516.72" etag="LBQC5pVFcvWKKLJzIpNo" version="20.4.0" type="github">
+  <diagram id="9lMuQkeq8u5d5hhJ3KNU" name="Strona-1">
+    <mxGraphModel dx="1433" dy="1055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="59PFNFIUWFnM1i0cKJEP-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="59PFNFIUWFnM1i0cKJEP-3" value="Xaml For The Desain" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="55" y="50" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="59PFNFIUWFnM1i0cKJEP-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="530" y="40" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="59PFNFIUWFnM1i0cKJEP-5" value="CSharp For The Logic" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="555" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="59PFNFIUWFnM1i0cKJEP-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=21;entryX=0.538;entryY=-0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="59PFNFIUWFnM1i0cKJEP-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="150" as="sourcePoint" />
+            <mxPoint x="400" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="59PFNFIUWFnM1i0cKJEP-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=21;" edge="1" parent="1" target="59PFNFIUWFnM1i0cKJEP-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="150" as="sourcePoint" />
+            <mxPoint x="420" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="59PFNFIUWFnM1i0cKJEP-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="310" y="480" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="59PFNFIUWFnM1i0cKJEP-11" value="WebSharp Project" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="286" y="487.5" width="256" height="45" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
